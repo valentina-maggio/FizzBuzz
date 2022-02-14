@@ -4,7 +4,7 @@ Goal: introduction to Test Driven Development (TDD) and Pair Programming.
 
 Technologies: Ruby, RSpec
 
-Pair partner: [Gayathri Dharmavaram] (https://github.com/gdrmvrm)
+Pair partner: [Gayathri Dharmavaram](https://github.com/gdrmvrm)
 
 ## Challenge instructions:
 
