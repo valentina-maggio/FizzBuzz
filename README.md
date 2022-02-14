@@ -1,10 +1,14 @@
 # FizzBuzz Project
 
-The goal of FizzBuzz is to get introduced to Test Driven Development (TDD) and Pair Programming.
+Goal: introduction to Test Driven Development (TDD) and Pair Programming.
+
+Technologies: Ruby, RSpec
+
+Pair partner: 
 
 ## Challenge instructions:
 
-The objective of FizzBuzz is to create a program with the following specification:
+The objective of FizzBuzz is to create a Ruby program with the following specification:
 
 * The program can be passed a number.
 * When passed a number that is a multiple of 3, the program returns the message 'Fizz'.
@@ -14,7 +18,7 @@ The objective of FizzBuzz is to create a program with the following specificatio
 
 #### Example of output:
 
-```
+```shell
 1 --> 1
 2 --> 2
 3 --> fizz
